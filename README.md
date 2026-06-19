@@ -6,28 +6,8 @@
 </p>
 
 <p>
-I am a Computer Vision and Multimodal AI researcher interested in developing intelligent systems that can perceive, reason, and learn from visual information. My work focuses on Vision-Language Models (VLMs), visual reasoning, and reinforcement learning techniques for improving multimodal understanding.
+I am a  AI researcher interested in developing intelligent systems that can perceive, reason, and learn from visual information. My work focuses on Vision-Language Models (VLMs), visual reasoning, and reinforcement learning techniques for improving multimodal understanding.
 </p>
-
-<p>
-Currently, I am exploring reward design and reinforcement learning methods for enhancing reasoning capabilities in state-of-the-art VLMs, with an emphasis on improving both performance and efficiency.
-</p>
-
-<h3>🔬 Interests</h3>
-<p>
-Computer Vision • Vision-Language Models • Multimodal AI • Visual Reasoning • Reinforcement Learning • Deep Learning
-</p>
-
-<h3>🛠️ Tech Stack</h3>
-<p>
-Python, C++, PyTorch, TensorFlow, OpenCV, CLIP, BLIP, SigLIP, Qwen2-VL, NumPy, Pandas, Linux, Git
-</p>
-
-<h3>📫 Let's Connect</h3>
-<p>
-Always open to discussions on Computer Vision, Multimodal Learning, and AI Research.
-</p>
-
 
 
 ## 🌐 Socials:
